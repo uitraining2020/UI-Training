@@ -1,0 +1,20 @@
+1. The output should match the UX given.
+2. Font family - Roboto Condensed
+3. The font can be imported from google fonts.
+4. If any icons are there in UX, then that can be get from font awesome site.
+5. Host the site in 000webhost or any other hosting platforms and share the url through mail.
+6. The url should contain the name.
+7. If the output doesn't match the UX, the corrections will be sent to you through mail. If accepted, the status will also be sent.
+8. Once corrections are received, work on those corrections and mail us.
+9. Any clarifications related to UX ask in the group, will be clarified by us.
+10. If you are stuck on something for more than 20minutes kindly seek help from the seniors.
+11. Assets which are needed for the hands on will be available in the assets folder.
+12. For android - Task can be done using any platforms like android studio,react etc.,
+
+
+Mail - uitraining2020@gmail.com
+
+Tools :
+
+	Code Editor           : Visual Studio Code (Suggested)
+	To get the HEX values : Digital color meter
