@@ -1,0 +1,10 @@
+Concepts to be referred :
+
+	1. <img>
+	2. <table>
+	3. inline styles
+
+The given exercise can be done without external css.
+For the styles, inline styles itself is enough.
+
+Note: Inline styles is not the best practice. Since this doesn't have much styling we are going with inline styles.
